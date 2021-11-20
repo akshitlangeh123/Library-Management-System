@@ -1,2 +1,4 @@
 # Library-Management-System
-3-tier system of library management system
+Library is place where all kind of books are available. Library Management system is a web-based application. This system contains list of all the books and can be accessed by remote users concurrently from anywhere in the campus. But for that user must be registered user. This system is three tier architecture.
+Client sends requests, on receiving the request the server processes it and extracts the data from database and sends the result back to the client This system provides separate interface and login for librarian, students and faculties. Librarian can modify database.
+Users can search for books and renewal books online. They can get recommendation for new books to read. They can view the issue and return dates of any book and due they must pay. Thus, the management can take appropriate steps to improve the facilities. Users can renew the issue time for which they have issued the book
